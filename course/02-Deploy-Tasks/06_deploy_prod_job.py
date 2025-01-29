@@ -20,6 +20,10 @@
 # MAGIC Run the cell with autojob() with env="prod"
 # MAGIC
 # MAGIC The run the job with the python function.
+# MAGIC
+# MAGIC Did the job run successfully?
+# MAGIC
+# MAGIC #### *hint* : this is a gotcha task, it will not work
 
 # COMMAND ----------
 
